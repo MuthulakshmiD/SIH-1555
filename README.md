@@ -120,30 +120,13 @@ UI/UX designer for an intuitive interface
 
 
 
++----------------------------+      +-----------------------------+       +-----------------------------+
+|    Frontend (React.js)     |      |    Backend (Node.js)        |       |     Database (MongoDB)      |
+|----------------------------|      |-----------------------------|       |-----------------------------|
+| - 3D Plant Viewer(Three.js)|      | - Plant Data API            |       | - Plant Profiles            |
+| - Virtual Tour Module      |  ->  | - User Data API             |   ->  | - Multimedia References     |
+| - Search & Filter UI       |      | - Tour Content API          |       |                             |
+|  - User Activity Data      |      |                             |       |                             |
+| - Notes & Bookmark UI      |      +-----------------------------+       +-----------------------------+
++----------------------------+
 
-+-----------------------------+
-|        Frontend (React)     |
-|-----------------------------|
-| - 3D Plant Viewer (Three.js)|
-| - Virtual Tour Module       |
-| - Search & Filter UI        |
-| - Notes & Bookmark UI       |
-+--------------|--------------+
-               |
-               v
-+-----------------------------+
-|     Backend (Node.js)       |
-|-----------------------------|
-| - Plant Data API            |
-| - User Data (Notes, Bookmarks)|
-| - Tour Content API          |
-+--------------|--------------+
-               |
-               v
-+-----------------------------+
-|     Database (MongoDB)      |
-|-----------------------------|
-| - Plant Profiles            |
-| - Multimedia References     |
-| - User Activity Data        |
-+-----------------------------+
