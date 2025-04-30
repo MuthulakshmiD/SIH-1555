@@ -112,3 +112,38 @@ Botanists or AYUSH experts for verified plant data
 3D designers for model creation
 
 UI/UX designer for an intuitive interface
+
+
+
+
+
+
+
+
+
++-----------------------------+
+|        Frontend (React)     |
+|-----------------------------|
+| - 3D Plant Viewer (Three.js)|
+| - Virtual Tour Module       |
+| - Search & Filter UI        |
+| - Notes & Bookmark UI       |
++--------------|--------------+
+               |
+               v
++-----------------------------+
+|     Backend (Node.js)       |
+|-----------------------------|
+| - Plant Data API            |
+| - User Data (Notes, Bookmarks)|
+| - Tour Content API          |
++--------------|--------------+
+               |
+               v
++-----------------------------+
+|     Database (MongoDB)      |
+|-----------------------------|
+| - Plant Profiles            |
+| - Multimedia References     |
+| - User Activity Data        |
++-----------------------------+
