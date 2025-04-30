@@ -32,6 +32,9 @@ We propose a Virtual Herbal Garden Platform that enables users to explore medici
 
 8.Optional AR/VR: For immersive learning in future extensions.
 
+![image](https://github.com/user-attachments/assets/cace134a-6bc3-49dd-849d-1fc9cd536b98)
+
+
 # Use Cases
 ### Student Learning
 Students of botany, Ayurveda, and life sciences can use the platform for self-paced exploration of medicinal plants.
@@ -112,21 +115,9 @@ Botanists or AYUSH experts for verified plant data
 3D designers for model creation
 
 UI/UX designer for an intuitive interface
+# Conclusion
+   The Virtual Herbal Garden is a transformative solution designed to make ancient knowledge from the AYUSH system digitally accessible, engaging, and educational. By leveraging modern web technologies such as React.js, Three.js, Node.js, and MongoDB, this platform enables users to explore 3D models of medicinal plants, access detailed information, and interact with rich multimedia content.
 
+   This project bridges the gap between traditional herbal wisdom and contemporary digital innovation, making the learning process immersive and inclusive. It empowers students, practitioners, and the general public to understand the medicinal, cultural, and ecological significance of various plants used in Ayurveda, Unani, Siddha, Homeopathy, and Naturopathy.
 
-
-
-
-
-
-
-+----------------------------+      +-----------------------------+       +-----------------------------+
-|    Frontend (React.js)     |      |    Backend (Node.js)        |       |     Database (MongoDB)      |
-|----------------------------|      |-----------------------------|       |-----------------------------|
-| - 3D Plant Viewer(Three.js)|      | - Plant Data API            |       | - Plant Profiles            |
-| - Virtual Tour Module      |  ->  | - User Data API             |   ->  | - Multimedia References     |
-| - Search & Filter UI       |      | - Tour Content API          |       |                             |
-|  - User Activity Data      |      |                             |       |                             |
-| - Notes & Bookmark UI      |      +-----------------------------+       +-----------------------------+
-+----------------------------+
-
+   Ultimately, the Virtual Herbal Garden will contribute to the promotion and preservation of Indian traditional medicine systems while fostering curiosity and respect for nature through technology.
